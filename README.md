@@ -51,8 +51,8 @@ Helps users track their income and expenses and displays the real-time balance.
 
 - **Built with:** HTML, CSS, JavaScript  
 - **Features:** Add/delete transactions, automatic balance update, styled transaction list  
-- 🔗 *Live Demo:* _(Add link if hosted)_  
-- 💻 GitHub Repo: [budget-tracker](https://github.com/your-username/budget-tracker)
+- 🔗 *Live Demo:* https://shashwat-kesharwani.github.io/Expense-Tracker/
+- 💻 GitHub Repo: https://github.com/Shashwat-Kesharwani/Expense-Tracker
 
 ---
 
@@ -61,8 +61,8 @@ A simple, clean, and responsive portfolio site showcasing my skills and projects
 
 - **Built with:** HTML, CSS, JavaScript  
 - **Highlights:** Responsive layout, easy navigation, project showcase  
-- 🔗 *Live Demo:* _(Add link if hosted)_  
-- 💻 GitHub Repo: [portfolio](https://github.com/your-username/portfolio)
+- 🔗 *Live Demo:* https://shashwat-kesharwani.github.io/MyWebsite/ 
+- 💻 GitHub Repo:https://github.com/Shashwat-Kesharwani/MyWebsite
 
 ---
 
@@ -78,9 +78,8 @@ A simple, clean, and responsive portfolio site showcasing my skills and projects
 
 ## 📫 Let's Connect
 
-- 📧 Email: `your-email@example.com`  
-- 💼 LinkedIn: *(Your LinkedIn link)*  
-- 🌐 Portfolio: *(Add if hosted)*  
+- 📧 Email: `shashwatk606@gmail.com`  
+- 💼 LinkedIn: https://www.linkedin.com/in/shashwat-kesharwani-7a13a0365 
 - 📝 Resume: Available on request
 
 ---
